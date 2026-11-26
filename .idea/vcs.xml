@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AIOmnichannelBE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AdminOmnichannel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChatBE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ManagementBE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OmnichannelFE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Simulator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/interface_smarthub" vcs="Git" />
+  </component>
+</project>
